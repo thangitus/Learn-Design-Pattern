@@ -1,4 +1,5 @@
 rootProject.name = 'Learn-Design-Pattern'
 include 'Abstract Factory'
 include 'Prototype'
+include 'Adapter'
 
