@@ -3,4 +3,5 @@ include 'Abstract Factory'
 include 'Prototype'
 include 'Adapter'
 include 'Bridge'
+include 'Composite'
 
